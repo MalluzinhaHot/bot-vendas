@@ -1,8 +1,8 @@
 import telebot
 from threading import Timer
 
-TOKEN = 'SEU_TOKEN_AQUI'
-ID_DONO = SEU_CHAT_ID_AQUI
+TOKEN = '8032461876:AAGmLkgGBPHlVO5dRjxrs9iccPEjG_zfruM'
+ID_DONO = 8098852558
 
 bot = telebot.TeleBot(TOKEN)
 
